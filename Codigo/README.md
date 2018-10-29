@@ -1,4 +1,4 @@
-Nuestro propuesta está enfocada en dos partes:
+Nuestra propuesta está enfocada en dos partes:
 
 1. Categorización de transacciones para establecer estableimientos a los que se realizó el movimiento. En el notebook "BACATAML-Categorizacion" se encuentra todo el planteamiento con metodología CRISP-DM.
 
